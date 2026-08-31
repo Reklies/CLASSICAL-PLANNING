@@ -47,10 +47,10 @@ print(plan)
 ```
 
 ### PROGRAM
-**NAME : PRIYADHARSHINI E **
+**NAME : REKLIES J **
 
 
-** REG NUM :212223230159**
+** REG NUM :212223110041**
 ```PYTHON
 def is_goal_state(current_state, goal_state):
     return current_state == goal_state
